@@ -1,0 +1,5 @@
+ 2024-06-28 11:16:30,672-DEBUG-Some debugging details
+ 2024-06-28 11:16:30,672-INFO-The logging module is working
+ 2024-06-28 11:16:30,673-WARNING-An error message is about to be logged.
+ 2024-06-28 11:16:30,673-ERROR-An error has ocurred
+ 2024-06-28 11:16:30,674-CRITICAL-The program is unable to recover
